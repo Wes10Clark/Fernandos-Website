@@ -1,0 +1,42 @@
+.home {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.img-container {
+  padding: 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.chipsNsalsa {
+  border-radius: 50%;
+  border: 2px solid #000; /* Change the border color as needed */
+  width: 120px; /* Change the width and height as needed */
+  height: 120px;
+}
+
+.brand {
+  width: 35%;
+}
+
+.taco {
+  border-radius: 50%;
+  border: 2px solid #000; /* Change the border color as needed */
+  width: 120px; /* Change the width and height as needed */
+  height: 120px;
+}
+.locations {
+  padding-bottom: 3rem;
+}
+.location-title {
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  margin-bottom: 1rem;
+}
+
+.card {
+  text-align: center;
+}
+.restaurant-image {
+  width: 100%;
+}
