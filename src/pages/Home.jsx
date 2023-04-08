@@ -1,9 +1,9 @@
 import React from "react";
 import "./home.css";
 import Brand from "../assets/Brand.png";
-import Madison from "../assets/FernandosMadison.png";
-import Pearl from "../assets/FernandosPearl.png";
-import Reservoir from "../assets/Res.png";
+import Madison from "../assets/FernandosMadison.JPEG";
+import Pearl from "../assets/FernandosPearl.JPEG";
+import Reservoir from "../assets/Res.JPEG";
 
 const Home = () => {
   return (
