@@ -609,7 +609,7 @@ const Menu = () => {
           <span>Other items can be added at additional charge</span>
         </div>
         <h3 className="menu-category" id="housespecialties">
-          HOUSE SPECIALTIES
+          House Specialties
         </h3>
         <span className="menu-category-details">
           Served with Mexican rice and your choice of refried beans, charro
