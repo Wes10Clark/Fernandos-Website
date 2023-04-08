@@ -702,7 +702,7 @@ const Menu = () => {
           <h5 className="food-price">$21.99</h5>
         </div>
         <h3 className="menu-category" id="enchiladas">
-          ENCHILADAS
+          Enchiladas
         </h3>
         <span className="menu-category-details">
           Served with Mexican rice and your choice of refried beans, charro
