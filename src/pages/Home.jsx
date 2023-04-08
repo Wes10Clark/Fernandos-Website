@@ -1,8 +1,6 @@
 import React from "react";
 import "./home.css";
-import marg from "../assets/Marg.png";
 import Brand from "../assets/Brand.png";
-import barria from "../assets/Barria.jpeg";
 import Madison from "../assets/FernandosMadison.png";
 import Pearl from "../assets/FernandosPearl.png";
 import Reservoir from "../assets/Res.png";
@@ -11,9 +9,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="img-container">
-        <img className="chipsNsalsa" src={marg} alt="chips and salsa" />
         <img className="brand" src={Brand} alt="Logo" />
-        <img className="taco" src={barria} alt="taco" />
       </div>
       <div className="locations">
         <h3 className="location-title">Our Locations</h3>
